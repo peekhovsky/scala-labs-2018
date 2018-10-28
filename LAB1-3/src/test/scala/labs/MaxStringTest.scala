@@ -1,3 +1,5 @@
+package labs
+
 import lab2.MaxStringLength
 import org.scalatest.FunSuite
 

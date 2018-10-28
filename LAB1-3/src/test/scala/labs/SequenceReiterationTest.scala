@@ -1,3 +1,5 @@
+package labs
+
 import lab1.SequenceReiteration
 import org.scalatest.FunSuite
 
